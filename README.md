@@ -11,7 +11,10 @@ Check below the preview and results.
 
 # Project Preview 🤩
 
-![Captura de tela 2023-03-21 024431](https://user-images.githubusercontent.com/122500633/226527524-dec4eef5-ee0a-4293-9c9b-cd2cf707c49b.png)
+![Captura de tela 2023-03-21 024749](https://user-images.githubusercontent.com/122500633/226528142-24a5ff61-39d8-4c80-bd7f-7d71d1f9f7b4.png)
+![Captura de tela 2023-03-21 024825](https://user-images.githubusercontent.com/122500633/226528154-f2dfae78-cf53-4f0d-9d91-cbd6525f7acf.png)
+![Captura de tela 2023-03-21 024916](https://user-images.githubusercontent.com/122500633/226528162-47faca29-a2ad-4842-b683-0013b70fa2e8.png)
+![Captura de tela 2023-03-21 024937](https://user-images.githubusercontent.com/122500633/226528172-b161541b-dd55-4a94-b575-62eccca0d48e.png)
 
 
 </div>
